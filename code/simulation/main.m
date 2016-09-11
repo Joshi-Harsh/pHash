@@ -3,7 +3,7 @@ HammingDistance = zeros(406, 13168);    %Declaration of hamming Distance Matrix
 CosineSimilarity = zeros(406, 13168);   %Declaration of Cosine Similarity Matrix
 randomNum=randperm(11142,410);          % 1D matrix of Random Number ranging from 1 to 11142
 
-for imageNumber = 6:6                   % Loop for 400 images
+for imageNumber = 6:406                   % Loop for 400 images
     columnNumber=2;                     %Column
     path=ImagPath(randomNum(imageNumber));
     % imagPath function to get the path of the image
@@ -75,4 +75,4 @@ for imageNumber = 6:6                   % Loop for 400 images
     end
 end
 xlswrite('data.xlsx',HammingDistance,'Hamming_Distance');   %Writing HammingDistance to the Excel Sheet
-xlxwrite('data.xlsx',CosineSimilarity,'Cosine_Similarity'); %Writing CosineSimilarity to the Excel Sheet
+xlswrite('data.xlsx',CosineSimilarity,'Cosine_Similarity'); %Writing CosineSimilarity to the Excel Sheet
