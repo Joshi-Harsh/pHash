@@ -12,4 +12,4 @@ Dr. Sandeep Sharma (HoD ECE, DIT University)
 [Sandeep Sharma](mailto:tek.learn@gmail.com)
 
 ###License
-It is opely distriuted under MIT license, please refer to LICENSE.md
+It is openly distributed under MIT license, please refer to LICENSE.md

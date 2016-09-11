@@ -1,6 +1,6 @@
 ###README
 
-Please find the project docuemntation hosted online.
+Please find the project documentation hosted online.
 You can access it by visiting project [WEBSITE](https://Joshi-Harsh.github.io/pHash). 
 
 You can find the source for documentation in /docs directory. 
@@ -8,4 +8,4 @@ You can find the source for documentation in /docs directory.
 You can find the code for project organized in /code directory
 
 ###License
-It is opely distributed under MIT license, please refer to LICENSE.md
+It is openly distributed under MIT license, please refer to LICENSE.md
